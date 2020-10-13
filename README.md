@@ -1,2 +1,2 @@
 # practise
-add some self practise
+add some practise
